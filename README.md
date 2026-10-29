@@ -1,5 +1,10 @@
 # Atividade prática: pedido-item-api
 
+## Integrantes
+
+- Breno Clemente Pereira
+- Moacyr Felipe Del Caro
+
 Projeto desenvolvido para a atividade de laboratório de Sistemas de Informação (4º período).
 
 A aplicação é uma API REST simples para cadastrar clientes, itens e pedidos. Um cliente pode ter vários pedidos e cada pedido pode conter vários itens.
